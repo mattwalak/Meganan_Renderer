@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "\n"
+./meganan 0 1 &
+./meganan 0 1 &
+./meganan 0 1 &
+./meganan 0 1 &
